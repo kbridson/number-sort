@@ -1,4 +1,5 @@
 # TODO: add user input option to get the numbers from the user
+# TODO: add reverse sort option
 import random
 
 
