@@ -1,3 +1,4 @@
+# TODO: add user input option to get the numbers from the user
 import random
 
 
